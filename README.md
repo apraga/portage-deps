@@ -1,0 +1,1 @@
+Dependencies for some Gentoo packages (vendor tarballs)
